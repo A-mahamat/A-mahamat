@@ -11,7 +11,13 @@ Je suis actuellement à la recherche :
 ## 🌟 **Projets Principaux**
 
 - **📍 Lieu-de-rencontre-optimal** : Projet de calcul de point de rencontre optimal en utilisant des API publiques et des algorithmes d'optimisation.
-- **💰 Analyse Financière** : Analyse des risques financiers pour l'approbation de prêts bancaires.
+- **💰 Analyse Financière (En cours)** : Analyse des risques financiers pour l'approbation de prêts bancaires.
+- **🔗 Système Optimisé d'Intégration Virtuelle de Données** :
+  - Mise en place d'une application Flask basée sur une architecture médiateur/adaptateur.
+  - **Sources de données** : API (Logement, Population, Énergie).
+  - **Outils** : Python, HTML, CSS, APIs, GitHub.
+- **🎮 Développement Web - Site de Vente de Jeux Vidéo en Ligne** :
+  - **Outils** : PHP, HTML, CSS, JavaScript, SQL.
 
 ---
 
