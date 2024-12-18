@@ -2,6 +2,10 @@
 
 Je suis **Mahamat Abdraman**, étudiant en **Master 1 Mathématiques Appliquées, Statistique**, parcours **Data Science et Machine Learning**, passionné par l'analyse de données, le machine learning et le développement de solutions logicielles.
 
+Je suis actuellement à la recherche :
+- **D'un stage** allant de **2 à 4 mois**.
+- **D'une alternance** pour la prochaine rentrée en **Master 2**.
+
 ---
 
 ## 🌟 **Projets Principaux**
@@ -22,17 +26,6 @@ Je suis **Mahamat Abdraman**, étudiant en **Master 1 Mathématiques Appliquées
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**🛠️ Outils**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**🚀 Technologies**  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00ADD8?style=for-the-badge&logo=data-science&logoColor=white)  
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF5722?style=for-the-badge&logo=web&logoColor=white)  
-![API REST](https://img.shields.io/badge/-API%20REST-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
