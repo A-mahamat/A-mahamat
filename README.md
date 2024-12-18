@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je suis **Mahamat Abdraman**, étudiant en **Master 1 Mathématiques Appliquées, Statistique**, parcours **Data Science et Machine Learning**, passionné par l'analyse de données, le machine learning et le développement de solutions logicielles.
+Je suis **Mahamat Abdraman**, étudiant en **Master 1 Mathématiques Appliquées, Statistique**, parcours **Data Science et Machine Learning** à l'Université Rennes1, passionné par l'analyse de données, le machine learning et le développement de solutions logicielles.
 
 Je suis actuellement à la recherche :
 - **D'un stage** allant de **2 à 4 mois**.
